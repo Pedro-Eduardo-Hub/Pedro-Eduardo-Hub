@@ -3,5 +3,5 @@
 - Focado em Python
 - Preparando-se para o mercado de tecnologia
 COMO ME ENCONTRAR
-Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](pedroeduof@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](pedroeduof@gmail.com) 
 
