@@ -1,6 +1,8 @@
 # Olá, eu sou o Pedro Eduardo
 -Estudante de Python na EADTEC e Hardware na Fatore
+
 -Me preparando para o futuro 
+
 -Portas Abertas A nova experiências!
 
 # SOBRE MIM!
