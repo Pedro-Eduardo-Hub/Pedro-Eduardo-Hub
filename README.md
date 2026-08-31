@@ -3,7 +3,7 @@
 
 -Me preparando para o futuro 
 
--Portas Abertas A nova experiências!
+-Portas Abertas A novas experiências!
 
 # SOBRE MIM!
 🐍 Estudando Python no curso da EADTEC e HARDWARE na Fatore, aprimorando meus conhecimentos em programação e desenvolvimento de software.
